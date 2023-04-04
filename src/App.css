@@ -1,0 +1,46 @@
+.App {
+  color: white;
+ 
+}
+.head{
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.apprec{
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+.list{
+  margin-top: 200px;
+  margin-left: 100px;
+}
+
+.search{
+  margin-left: 440px;
+}
+
+.rec{
+  margin-right: 150px;
+  margin-top: 75px;
+}
+table{
+  margin-top: 50px;
+}
+
+.form-control{
+  width: 50%;
+
+}
+.d-flex{
+  justify-content: center;
+}
+body{
+  background-image: url('https://images.alphacoders.com/717/717234.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
